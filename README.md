@@ -1,9 +1,9 @@
 # e_commerce_app
 
 A new Flutter application.
-
+AUTHORS/ AHMED HAFDI
 ## Getting Started
-## SHOOPING FLUTTER APP :PRODUCTS /CATEGORIES /
+ SHOOPING FLUTTER APP :PRODUCTS /CATEGORIES /
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
